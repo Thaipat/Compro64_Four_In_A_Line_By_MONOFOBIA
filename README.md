@@ -19,9 +19,9 @@
 [Video Presentation](https://youtu.be/ELr4pArY-no)
 
 ## โปสเตอร์
-[Poster (download)](https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png)
+[Poster (download)](https://cdn.discordapp.com/attachments/967686497627177050/972798160856547369/FOUR_IN_A_LINE.png)
 ---
-![Poster](https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png)
+![Poster](https://cdn.discordapp.com/attachments/967686497627177050/972798160856547369/FOUR_IN_A_LINE.png)
 ---
 
 ## เอกสาร
