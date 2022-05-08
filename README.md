@@ -13,19 +13,19 @@
 3. ได้ฝึกการทำงานร่วมกันเป็นทีม
 4. ได้ฝึกวางแผนการทำงานและการแบ่งงานภายในทีม
 ## เว็บไซต์
-[Visit to our webiste]https://comprominipro.thaipatlawthana.repl.co/
+[Visit to our webiste](https://comprominipro.thaipatlawthana.repl.co/)
 
 ## วิดีโอนำเสนอ
-[Video Presentation]https://youtu.be/ELr4pArY-no
+[Video Presentation](https://youtu.be/ELr4pArY-no)
 
 ## โปสเตอร์
-[Poster (download)]https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png
+[Poster (download)](https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png)
 ---
-![Poster]https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png
+![Poster](https://cdn.discordapp.com/attachments/967686497627177050/972793523776659466/FOUR_IN_A_LINE.png)
 ---
 
 ## เอกสาร
-[Document (download)]https://cdn.discordapp.com/attachments/967686497627177050/972793664113889290/Com_Pro_Draft.pdf
+[Document (download)](https://cdn.discordapp.com/attachments/967686497627177050/972793664113889290/Com_Pro_Draft.pdf)
 
 ## สมาชิก
 | รหัสนักศึกษา | ชื่อ - นามสกุล |
